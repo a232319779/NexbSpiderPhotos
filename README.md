@@ -1,2 +1,3 @@
-# NexbSpiderPhotos
-保存图片
+# NextBSpiderPhotos
+
+保存NextBSpiders爬取的图片
